@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Prasanna M</h1>
+<h1 align="center"> Prasanna M</h1>
 <h3 align="center">ECE Student | Aspiring Software Developer</h3>
 <p align="center">
   <a href="mailto:pressprasanna448@gmail.com"><img src="https://img.shields.io/badge/Gmail-pressprasanna448@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
